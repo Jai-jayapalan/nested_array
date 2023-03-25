@@ -30,8 +30,8 @@ var isnested=(min__arr1,min__arr2,max__arr1,max__arr2)=>{
 }
 
 //calling function
-nestedarray(arr1,arr2)
 
+nestedarray(arr1,arr2)
 nestedarray([1, 2, 3, 4], [0, 6])
 nestedarray([3, 1], [4, 0])
 nestedarray([9, 9, 8], [8, 9])
